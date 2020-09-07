@@ -1,0 +1,4 @@
+#Sun Sep 06 21:18:23 EDT 2020
+base.0=C\:\\Users\\Amanda\\Documents\\School\\Android\\12-material-design\\starter\\ListMaker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

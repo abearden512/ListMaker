@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Sep 06 21:18:24 EDT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Amanda\\Documents\\School\\Android\\12-material-design\\starter\\ListMaker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
